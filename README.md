@@ -39,6 +39,8 @@ log_data / 2018/11 / 2018-11-13-events.json
    - artists: contains artists in the database.
    - time: timestamp of records in songplays divided into specific units.
 
+![Alt text](./Song_ERD.png?raw=true "Title")
+
 * Fact
    - songplays: records in the log data associated with song plays.
    
